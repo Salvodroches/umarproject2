@@ -16,7 +16,7 @@ async function onSubmit() {
       email.value
   )
   const botToken = '7168094994:AAGDxeO3mZds5N5aIVcs3kw_J1eSjJJkhm0';
-
+const chatId = '-1002023969296'
 
   const text = 'Новое сообщение:%0A%0A' +
       `Вопрос: ${question.value}%0A` +
